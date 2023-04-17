@@ -1,21 +1,14 @@
 {
-  "name": "nodejs-exercicio-2",
+  "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "exercicio2.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BrunoWAA/NodeJS-Exercicio-2.git"
+    "test": "jest",
+    "start": "node exercicio2.js"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/BrunoWAA/NodeJS-Exercicio-2/issues"
-  },
-  "homepage": "https://github.com/BrunoWAA/NodeJS-Exercicio-2#readme",
   "dependencies": {
     "jest": "^29.5.0"
   }

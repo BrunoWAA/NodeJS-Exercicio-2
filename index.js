@@ -1,0 +1,1 @@
+let importacao = { soma } ("/exercicio2.js")
